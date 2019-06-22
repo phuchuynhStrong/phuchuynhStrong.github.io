@@ -36274,7 +36274,7 @@ F.z1.prototype={
 R:function(a){var u,t=null,s=H.f([0.25,0.75],[P.G])
 s=S.ky(t,t,t,t,T.IY(C.iu,H.f([new Q.z(4290962844),new Q.z(4284789748)],[Q.z]),C.dn,s,C.bK),t,C.F)
 u=[N.aM]
-return new M.jI(M.nM(t,new T.uV(C.Y,C.cG,C.bz,C.c3,t,C.bL,t,H.f([M.nM(t,t,t,t,S.ky(t,t,t,t,t,new X.kL(new L.iG("avatar.png"),C.dz),C.aa),150,t,t,150),M.nM(t,L.Qp("Welcome to my GitHub",A.mg(t,t,C.I,t,t,t,t,t,t,t,20,t,t,t,t,!0,t,t,t,t,t,t)),t,t,t,t,new V.aT(0,30,0,0),t,t),T.Qb(H.f([B.L_(S.L2(new L.iG("fb_icon.png")),new F.z2(this)),B.L_(S.L2(new L.iG("linkedin.png")),new F.z3(this))],u),C.c3,C.cG,C.bz)],u),t),t,t,s,t,t,t,t),t)}}
+return new M.jI(M.nM(t,new T.uV(C.Y,C.cG,C.bz,C.c3,t,C.bL,t,H.f([M.nM(t,t,t,t,S.ky(t,t,t,t,t,new X.kL(new L.iG("avatar.png"),C.dz),C.aa),150,t,t,150),M.nM(t,L.Qp("Welcome to my GitHub. This website is built with Flutter",A.mg(t,t,C.I,t,t,t,t,t,t,t,20,t,t,t,t,!0,t,t,t,t,t,t)),t,t,t,t,new V.aT(0,30,0,0),t,t),T.Qb(H.f([B.L_(S.L2(new L.iG("fb_icon.png")),new F.z2(this)),B.L_(S.L2(new L.iG("linkedin.png")),new F.z3(this))],u),C.c3,C.cG,C.bz)],u),t),t,t,s,t,t,t,t),t)}}
 F.z2.prototype={
 $0:function(){C.X.uF(window,"https://www.facebook.com/phuc.huynh.280896","")},
 $C:"$0",
