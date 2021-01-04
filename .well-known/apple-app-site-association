@@ -1,0 +1,19 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appID": "798ZJ2JV63.xyz.comewithme.butterflyapp",
+        "components": [
+          {
+            "/": "/actions/*",
+            "comment": "Matches any URL whose path start with /action/s"
+          },
+          {
+            "/": "/c/*",
+            "comment": "Matches any share profile URL"
+          }
+        ]
+      }
+    ]
+  }
+}

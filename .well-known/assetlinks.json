@@ -1,0 +1,16 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "xyz.comewithme.butterflyapp",
+            "sha256_cert_fingerprints": [
+                "C1:DD:6D:AF:AC:4A:4A:21:37:4A:32:F7:11:DF:BF:98:8F:FA:3D:45:C6:6A:1A:FD:02:3D:30:4B:47:7A:24:D4",
+                "0F:8F:FD:29:E2:41:66:DB:94:CE:62:75:DF:76:82:6C:91:9A:3E:67:FF:7B:95:3C:75:FC:4E:AA:95:4B:42:3F",
+                "a0:aa:e8:2b:7f:9f:d0:0e:c0:f6:ab:32:a7:d7:2f:94:91:31:58:b6"
+            ]
+        }
+    }
+]
